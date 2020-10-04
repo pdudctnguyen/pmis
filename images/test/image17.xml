@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>image17.jpg</filename>
+	<path>/home/techcare/Downloads/image/image17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>worker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>892</xmin>
+			<ymin>518</ymin>
+			<xmax>2116</xmax>
+			<ymax>1999</ymax>
+		</bndbox>
+	</object>
+</annotation>

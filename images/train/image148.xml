@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>image148.jpg</filename>
+	<path>/home/techcare/Downloads/image/image148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>505</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>infiltrator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>187</ymin>
+			<xmax>238</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
